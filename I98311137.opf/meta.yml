@@ -1,0 +1,37 @@
+id: I98311137
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:15:26.803891'
+last_modified: '2022-06-18T20:15:26.803907'
+parser: null
+source_metadata:
+  title: Commentary to Nagarjunas Mūlamadhyamakārikā (block print), colophon excerpt
+  author: rong ston shes bya kun rig
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-05-19); revision in process, thematic TEI
+    markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1927
+  bases:
+    ba6b:
+      title: Commentary to Nagarjunas Mūlamadhyamakārikā (block print), colophon excerpt
+      order: 1
+      base_file: ba6b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
